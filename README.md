@@ -6,3 +6,5 @@ This is test message after created test channel in MM!
 
 
 This is test message 3
+
+This is test message4
