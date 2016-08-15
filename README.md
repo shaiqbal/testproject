@@ -10,3 +10,5 @@ This is test message 3
 This is test message4
 
 This is test message5
+
+This is test message6 after change bot name to github
