@@ -18,3 +18,5 @@ This is test message7 after change bot name to github
 This is test message8 after change bot name to github!
 
 This is test message9 after change bot name to github!
+
+This is test message10 after change bot name to github!
