@@ -1,2 +1,2 @@
-From ubuntu:latest
-RUN echo "Hello! Ubuntu Latest"
+From alphine:latest
+RUN echo "Hello! Alphine Latest"
