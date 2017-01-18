@@ -1,2 +1,2 @@
-From alphine:latest
-RUN echo "Hello! Alphine Latest"
+From alpine:latest
+RUN echo "Hello! Alpine Latest"
