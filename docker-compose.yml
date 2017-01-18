@@ -1,0 +1,6 @@
+version: '2'
+services:
+  alpine:
+    image: "alpine:latest"
+  busybox:
+    image: "busybox:latest"
